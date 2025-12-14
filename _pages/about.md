@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CSE @ SUSTech</p>
-    <p>1088 Taoyuan Ave</p>
+    <p>1088 Xueyuan Ave</p>
     <p>Shenzhen, China</p>
 
 
