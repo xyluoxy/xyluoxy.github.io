@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Shenzhen, China</p>
+    <p>SUSTech, Shenzhen, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am **Xiyu**, a senior year undergraduate at SUSTech.
+Hi! I am Xiyu, a senior year undergraduate at <a href='https://www.sustech.edu.cn/en/'>SUSTech</a>. I also exchanged at <a href='https://ucsd.edu/'>UC San Diego</a> in fall 2025.
 My research interests include:
 - Multimodal Learning
 - Vision-Language Models
