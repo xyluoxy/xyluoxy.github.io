@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>SUSTech, Shenzhen, China</p>
+    <a href='https://scholar.google.com/citations?user=L2bE5SIAAAAJ&hl=en&authuser=3'>Google Scholar</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
