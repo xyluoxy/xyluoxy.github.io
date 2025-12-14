@@ -429,7 +429,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/xiyu-luo-8a1292373", "_blank");
+          window.open("https://www.linkedin.com/in/xiyu-luo-silas", "_blank");
         },
       },{
         id: 'social-scholar',
